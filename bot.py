@@ -224,5 +224,5 @@ async def help_command(ctx):
 
 
 
-
-#bot.run('') # PUT YOU DISCORD TOKEN
+# Inicia el bot con tu token
+bot.run('TU TOKEN')
